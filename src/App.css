@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.item{
+  padding: 10px;
+  border-bottom: 1px solid;
+}
+
+.delete-button {
+  float: right;
+}
